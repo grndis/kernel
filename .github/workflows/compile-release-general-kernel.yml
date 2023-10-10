@@ -17,6 +17,7 @@ on:
         type: choice
         options:
           - unifreq
+          - 7ji
       kernel_version:
         description: "Select kernel version"
         required: false
